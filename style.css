@@ -1,0 +1,27 @@
+table {
+    border: 1px solid red;
+    width: 100%;
+    height: 800px;
+}
+
+tr, th {
+    border: 1px solid blue; 
+}
+tr {
+    height: 33%;
+    width: 100%;
+}
+
+th {
+    height: 33%;
+    width: 33%;
+}
+
+th {
+    font-size: 1000%;
+}
+
+.reset-button {
+    width: 200px;
+    height: 50px;
+}
